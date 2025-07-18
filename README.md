@@ -48,10 +48,10 @@ streamlit run app.py
  
 salary-prediction-app/
 │
-├── app.py                # Streamlit App
-├── build_model.py        # Model training script
-├── salary_prediction_model.pkl  # Trained model
-├── requirements.txt      # Dependencies
+├── app.py                            # Streamlit App
+├── build_model.py                    # Model training script
+├── salary_prediction_model.pkl       # Trained model
+├── requirements.txt                  # Dependencies
 ├── .gitignore
 └── README.md
 
@@ -62,5 +62,8 @@ salary-prediction-app/
 👨‍💻 Author
 
 Name: Sundara Mahalingam M
+
+
+
 Email: iassundar779@gmail.com
 
