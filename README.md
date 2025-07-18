@@ -48,12 +48,13 @@ streamlit run app.py
  
 salary-prediction-app/
 │
-├── app.py                            # Streamlit App
-├── build_model.py                    # Model training script
-├── salary_prediction_model.pkl       # Trained model
-├── requirements.txt                  # Dependencies
+├── app.py                # Streamlit App
+├── build_model.py        # Model training script
+├── salary_prediction_model.pkl  # Trained model
+├── requirements.txt      # Dependencies
 ├── .gitignore
 └── README.md
+
 
 
 <img width="1916" height="961" alt="Screenshot 2025-07-18 205018" src="https://github.com/user-attachments/assets/49585513-f595-445f-aa47-eb050268c4e4" />
