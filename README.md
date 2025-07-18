@@ -57,7 +57,7 @@ salary-prediction-app/
 
 
 <img width="1916" height="961" alt="Screenshot 2025-07-18 205018" src="https://github.com/user-attachments/assets/49585513-f595-445f-aa47-eb050268c4e4" />
-<img width="1916" height="961" alt="Screenshot 2025-07-18 205018" src="https://github.com/user-attachments/assets/25e054d5-5443-4c16-b533-4fe015027cbd" />
+ 
 
 👨‍💻 Author
 
